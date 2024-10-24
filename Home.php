@@ -133,9 +133,7 @@
             <p class="text-xs text-gray-700">Akun</p>
         </div>
     </nav>
-    <div class="Recomendation">
-        <?php include('Recomendation.php'); ?>
-    </div>
+   
     <!-- Footer -->
     <?php include('Footer.php'); ?>
 
