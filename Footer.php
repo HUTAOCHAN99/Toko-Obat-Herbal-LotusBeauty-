@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Herbilogy Footer</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
@@ -15,12 +17,14 @@
             <!-- Address and Join as Reseller -->
             <div class="flex flex-col justify-between">
                 <div>
-                    <h2 class="text-xl font-bold">Herbilogy</h2>
+                    <h2 class="text-xl font-bold">Feng Hoe Tang</h2>
                     <p class="mt-4">
-                        Cibubur Country, Rukan Food Plaza (RFP) 3 No 12<br>
-                        (Dekat Sekolah Islam Pelita Hati)<br>
-                        Cikeas 16966, Bogor, Indonesia
+                        Jalan Kebahagiaan No. 42<br>
+                        (Dekat dengan Taman Canda dan Tawa)<br>
+                        Komplek Suka Hati, Bogor, Indonesia<br>
+                        Kode Pos: 12345 (Jangan bingung, ini bukan kode rahasia!)
                     </p>
+
                     <p class="mt-2">Operational Hours: Mon-Fri 9:00-17:00</p>
                 </div>
                 <button class="mt-4 px-6 py-2 bg-white text-green-900 font-semibold rounded">Join as reseller</button>
@@ -56,23 +60,23 @@
                     <h4 class="font-semibold">Other Social Media</h4>
                     <ul class="grid grid-cols-3 gap-x-4 gap-y-2 mt-4">
                         <li><a href="mailto:info@herbilogy.com" class="text-white hover:text-yellow-500">
-                            <i class="fas fa-envelope"></i> Email</a></li>
+                                <i class="fas fa-envelope"></i> Email</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-tiktok"></i> @herbilogy</a></li>
+                                <i class="fab fa-tiktok"></i> @herbilogy</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-instagram"></i> @carefor.her</a></li>
+                                <i class="fab fa-instagram"></i> @carefor.her</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-tiktok"></i> @momilogy</a></li>
+                                <i class="fab fa-tiktok"></i> @momilogy</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-facebook-f"></i> Facebook</a></li>
+                                <i class="fab fa-facebook-f"></i> Facebook</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-instagram"></i> @partof.her</a></li>
+                                <i class="fab fa-instagram"></i> @partof.her</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-instagram"></i> @momlike.her</a></li>
+                                <i class="fab fa-instagram"></i> @momlike.her</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-twitter"></i> Twitter</a></li>
+                                <i class="fab fa-twitter"></i> Twitter</a></li>
                         <li><a href="#" class="text-white hover:text-yellow-500">
-                            <i class="fab fa-youtube"></i> YouTube</a></li>
+                                <i class="fab fa-youtube"></i> YouTube</a></li>
                     </ul>
                 </div>
 
@@ -81,7 +85,7 @@
 
         <!-- Footer Bottom -->
         <div class="mt-8 border-t border-gray-700 pt-6 text-center">
-            <p>&copy; 2024 Herbilogy Site by <a href="#" class="text-yellow-500 hover:underline">Goodcommerce</a></p>
+            <p>&copy; 2024 LotusBeauty Site by <a href="#" class="text-yellow-500 hover:underline">Hamba Allah</a></p>
             <ul class="flex justify-center space-x-8 mt-4">
                 <li><a href="#" class="hover:underline">Terms & Conditions</a></li>
                 <li><a href="#" class="hover:underline">Privacy Policy</a></li>
