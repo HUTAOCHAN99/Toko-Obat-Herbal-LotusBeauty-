@@ -1,7 +1,7 @@
 <?php
 
 $product = [
-    'name' => 'Nike Air Max',
+    'name' => 'Naik Air Mak',
     'category' => "lanang sepatu",
     'price' => 199.99,
     'image' => '',  // Gambar bisa diisi dengan URL gambar produk
