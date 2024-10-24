@@ -9,12 +9,14 @@
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <style>
         /* For smooth mobile menu and search bar toggle */
-        .mobile-menu, .search-bar {
+        .mobile-menu,
+        .search-bar {
             display: none;
             transition: max-height 0.3s ease-in-out;
         }
 
-        .mobile-menu.open, .search-bar.open {
+        .mobile-menu.open,
+        .search-bar.open {
             display: block;
             max-height: 300px;
         }
@@ -28,7 +30,6 @@
         <div class="flex items-center space-x-8">
             <!-- Logo -->
             <div class="flex items-center">
-                <img src="path_to_logo.png" alt="logo" class="h-8 mr-2"> <!-- Ganti dengan logo yang benar -->
                 <span class="text-green-900 font-semibold text-xl">Feng Hoe Tang :v</span>
             </div>
 
@@ -69,8 +70,9 @@
     <div id="search-bar" class="search-bar bg-white shadow-md py-4 px-8">
         <div class="max-w-2xl mx-auto flex items-center space-x-4">
             <!-- Search Input -->
-            <input type="text" class="w-full border border-gray-300 rounded-md p-2" placeholder="Search for products...">
-            
+            <input type="text" class="w-full border border-gray-300 rounded-md p-2"
+                placeholder="Search for products...">
+
             <!-- Search Icon inside Search Bar -->
             <button class="text-green-900 hover:text-black">
                 <i class="ri-search-line ri-2x"></i> <!-- Mengganti button menjadi icon search -->
