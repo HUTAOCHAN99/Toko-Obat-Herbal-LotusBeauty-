@@ -40,7 +40,7 @@ $reviews = [
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sliding Product Card</title>
-    <link rel="stylesheet" href="./src/output.css">
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Custom animation styles */
         .product-details {
