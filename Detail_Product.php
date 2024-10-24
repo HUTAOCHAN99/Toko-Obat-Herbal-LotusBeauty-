@@ -72,6 +72,9 @@ $reviews = [
     </style>
 
 <body>
+    <?php 
+    include('Header.php');
+    ?>
     <div class="bg-gray-100 flex items-center justify-center p-2">
         <div class="bg-white-300 w-full h-1/2 absolute">
             <div class="bg-blue-300 w-full h-1/2 absolute"></div>
@@ -171,6 +174,9 @@ $reviews = [
             <?php endforeach; ?>
         </div>
     </div>
+    <?php 
+    include('Footer.php');
+    ?>
 </body>
 
 </html>
