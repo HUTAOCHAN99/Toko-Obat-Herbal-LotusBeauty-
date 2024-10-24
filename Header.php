@@ -34,11 +34,11 @@
 
             <!-- Main Menu (Hidden on Mobile) -->
             <div class="hidden md:flex space-x-6">
-                <a href="#" class="text-green-900 hover:font-bold">Home</a>
-                <a href="#" class="text-green-900 hover:font-bold">Products</a>
+                <a href="Home" class="text-green-900 hover:font-bold">Home</a>
+                <a href="Home" class="text-green-900 hover:font-bold">Products</a>
                 <a href="#" class="text-green-900 hover:font-bold">Shop</a>
                 <a href="#" class="text-green-900 hover:font-bold">Consultation</a>
-                <a href="#" class="text-green-900 hover:font-bold">Recipe</a>
+                <a href="Recipe" class="text-green-900 hover:font-bold">Recipe</a>
                 <a href="#" class="text-green-900 hover:font-bold">About Us</a>
             </div>
         </div>
