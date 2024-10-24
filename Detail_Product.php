@@ -40,7 +40,7 @@ $reviews = [
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sliding Product Card</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="./src/output.css">
     <style>
         /* Custom animation styles */
         .product-details {
@@ -78,7 +78,7 @@ $reviews = [
         </div>
         <div id="product-card" class="relative bg-white shadow-lg rounded-lg overflow-hidden card">
             <!-- Card Produk -->
-            <div class="bg-blue-500 h-70 flex items-center justify-center flex-1 cursor-pointer"
+            <div class=" bg-blue-500 h-70 flex items-center justify-center flex-1 cursor-pointer"
                 onclick="toggleDetails()">
                 <img id="product-image" src="<?= $product['image']; ?>" alt="<?= $product['name']; ?>" class="h-32">
             </div>
